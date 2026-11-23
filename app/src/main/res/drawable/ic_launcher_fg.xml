@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Matte Charcoal Bento Pillar -->
+    <path
+        android:fillColor="#1D2024"
+        android:pathData="M35.5,27 H39 A7.5,7.5 0 0 1 46.5,34.5 V73.5 A7.5,7.5 0 0 1 39,81 H35.5 A7.5,7.5 0 0 1 28,73.5 V34.5 A7.5,7.5 0 0 1 35.5,27 Z" />
+    <!-- Top-Right Acid Lime Curved Tile -->
+    <path
+        android:fillColor="#BDF90B"
+        android:pathData="M57.5,27 H64.5 A15.5,15.5 0 0 1 80,42.5 V45.5 A6.5,6.5 0 0 1 73.5,52 H57.5 A6.5,6.5 0 0 1 51,45.5 V33.5 A6.5,6.5 0 0 1 57.5,27 Z" />
+    <!-- Bottom-Right Alabaster Curved Tile -->
+    <path
+        android:fillColor="#E5E8EE"
+        android:pathData="M57.5,56 H73.5 A6.5,6.5 0 0 1 80,62.5 V65.5 A15.5,15.5 0 0 1 64.5,81 H57.5 A6.5,6.5 0 0 1 51,74.5 V62.5 A6.5,6.5 0 0 1 57.5,56 Z" />
+    <!-- Charcoal Dot Accent inside Bottom-Right Tile -->
+    <path
+        android:fillColor="#1D2024"
+        android:pathData="M65.5,64.7 A3.8,3.8 0 1 1 65.5,72.3 A3.8,3.8 0 1 1 65.5,64.7 Z" />
+</vector>

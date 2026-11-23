@@ -1,0 +1,9 @@
+<resources>
+    <color name="widget_bg">#FFFFFF</color>
+    <color name="widget_border">#E4E7EC</color>
+    <color name="widget_ink">#16181A</color>
+    <color name="widget_muted">#767C85</color>
+    <color name="widget_pill_bg">#BDF90B</color>
+    <color name="widget_pill_ink">#141618</color>
+    <color name="widget_mint">#15803D</color>
+</resources>
